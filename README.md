@@ -19,3 +19,16 @@ Before running the application, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
 
+   ```bash
+   git clone https://github.com/irannap/erpbuddies-task
+   
+2. Navigate to directory and install packages:
+
+   ```bash
+   cd erpbuddies-task
+   npm install
+
+2. Run Project on your Local machine using Expo Go Application:
+
+   ```bash
+   npm start
